@@ -24,7 +24,7 @@ export default function Profile() {
             Welcome to My Portfolio
           </h1>
           <p className="mt-4 text-lg text-gray-700 leading-relaxed">
-            ` Hi, I’m <span className="font-bold text-amber-700">Ayesha Ahmed</span> a creative web developer focused on building engaging, responsive websites and applications with Next.js, React, and Tailwind CSS. Check out my portfolio to see my work, and let’s connect if you’re interested in collaborating on exceptional web experiences!</p>
+             Hi, Im <span className="font-bold text-amber-700">Ayesha Ahmed</span> a creative web developer focused on building engaging, responsive websites and applications with Next.js, React, and Tailwind CSS. Check out my portfolio to see my work, and lets connect if you are interested in collaborating on exceptional web experiences!</p>
         </div>
       </div>
     </div>

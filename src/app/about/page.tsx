@@ -27,9 +27,9 @@ export default function About() {
                     <p className="text-lg text-gray-700 leading-relaxed "> A web developer with a year of
                         experience crafting responsive, user-friendly websites
                         and applications. Specializing in Next.js, React, and
-                        Tailwind CSS, I’m passionate about creating smooth,
+                        Tailwind CSS, I am passionate about creating smooth,
                         engaging digital experiences. Browse my portfolio to see
-                        my work, and let’s connect to bring your vision to life!
+                        my work, and lets connect to bring your vision to life!
                     </p>
                 </div>
             </div>
