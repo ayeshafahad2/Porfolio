@@ -8,6 +8,9 @@ import Project5 from '@/app/images/project5.png';
 import Project6 from '@/app/images/project6.png';
 import Project7 from '@/app/images/project7.png';
 import Project8 from '@/app/images/project8.png';
+import Project9 from '@/app/images/project9.png';
+import Project10 from '@/app/images/project10.png';
+
 
 
 export default function Projects() {
@@ -63,7 +66,19 @@ export default function Projects() {
         {/* Project Card 8 */}
         <div className="bg-purple-500 p-3 rounded-lg  shadow-2xl  duration-900 h-72 hover:scale-105 hover:shadow-xl">
           <Image src={Project8} alt="Project Eight" className="w-full h-52 object-cover rounded-md mb-4" />
-          <b className='flex justify-center text-2xl'>Tashih counter</b>
+          <b className='flex justify-center text-2xl'>Blog website</b>
+        </div>
+
+        {/* Project Card 8 */}
+        <div className="bg-purple-500 p-3 rounded-lg  shadow-2xl  duration-900 h-72 hover:scale-105 hover:shadow-xl">
+          <Image src={Project9} alt="Project Eight" className="w-full h-52 object-cover rounded-md mb-4" />
+          <b className='flex justify-center text-2xl'>furnio website</b>
+        </div>
+
+        {/* Project Card 8 */}
+        <div className="bg-purple-500 p-3 rounded-lg  shadow-2xl  duration-900 h-72 hover:scale-105 hover:shadow-xl">
+          <Image src={Project10} alt="Project Eight" className="w-full h-52 object-cover rounded-md mb-4" />
+          <b className='flex justify-center text-2xl'>Fresh Fruits</b>
         </div>
 
       </div>
